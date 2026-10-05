@@ -1,0 +1,6 @@
+{
+  "name": "Verdant Hearth Café & Bakehouse",
+  "description": "Artisanal neighborhood cafe, micro-roastery, and hearth bakehouse featuring single-origin pour-overs, laminated pastries, and our coffee journal with brewing guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
